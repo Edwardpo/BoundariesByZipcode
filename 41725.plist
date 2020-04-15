@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>41725</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{37.340974,-83.052608}</string>
-		<string>{37.341331,-83.050799}</string>
-		<string>{37.342572,-83.048047}</string>
-		<string>{37.341452,-83.046114}</string>
-		<string>{37.339077,-83.046013}</string>
-		<string>{37.335256,-83.047849}</string>
-		<string>{37.334416,-83.046721}</string>
-		<string>{37.336052,-83.04313}</string>
-		<string>{37.335332,-83.042304}</string>
-		<string>{37.333377,-83.043233}</string>
-		<string>{37.328977,-83.037704}</string>
-		<string>{37.328289,-83.034685}</string>
-		<string>{37.325499,-83.034307}</string>
-		<string>{37.326553,-83.0332}</string>
-		<string>{37.329585,-83.033426}</string>
-		<string>{37.330344,-83.03542}</string>
-		<string>{37.331066,-83.03352}</string>
-		<string>{37.331326,-83.03013}</string>
-		<string>{37.333156,-83.027433}</string>
-		<string>{37.333561,-83.025479}</string>
-		<string>{37.345895,-83.019658}</string>
-		<string>{37.346337,-83.047651}</string>
-		<string>{37.340974,-83.052608}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{37.340974,-83.052608}</string>
+	<string>{37.341331,-83.050799}</string>
+	<string>{37.342572,-83.048047}</string>
+	<string>{37.341452,-83.046114}</string>
+	<string>{37.339077,-83.046013}</string>
+	<string>{37.335256,-83.047849}</string>
+	<string>{37.334416,-83.046721}</string>
+	<string>{37.336052,-83.04313}</string>
+	<string>{37.335332,-83.042304}</string>
+	<string>{37.333377,-83.043233}</string>
+	<string>{37.328977,-83.037704}</string>
+	<string>{37.328289,-83.034685}</string>
+	<string>{37.325499,-83.034307}</string>
+	<string>{37.326553,-83.0332}</string>
+	<string>{37.329585,-83.033426}</string>
+	<string>{37.330344,-83.03542}</string>
+	<string>{37.331066,-83.03352}</string>
+	<string>{37.331326,-83.03013}</string>
+	<string>{37.333156,-83.027433}</string>
+	<string>{37.333561,-83.025479}</string>
+	<string>{37.345895,-83.019658}</string>
+	<string>{37.346337,-83.047651}</string>
+	<string>{37.340974,-83.052608}</string>
+</array>
 </plist>

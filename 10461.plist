@@ -1,57 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>10461</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{40.857983,-73.861791}</string>
-		<string>{40.856783,-73.86192}</string>
-		<string>{40.845293,-73.852998}</string>
-		<string>{40.843854,-73.851107}</string>
-		<string>{40.842975,-73.85521}</string>
-		<string>{40.84247,-73.853335}</string>
-		<string>{40.841072,-73.8529}</string>
-		<string>{40.836273,-73.845905}</string>
-		<string>{40.835231,-73.843232}</string>
-		<string>{40.835663,-73.840028}</string>
-		<string>{40.834901,-73.839955}</string>
-		<string>{40.831339,-73.844206}</string>
-		<string>{40.830599,-73.844415}</string>
-		<string>{40.831267,-73.842279}</string>
-		<string>{40.833554,-73.839332}</string>
-		<string>{40.835768,-73.839323}</string>
-		<string>{40.838275,-73.839604}</string>
-		<string>{40.840878,-73.839364}</string>
-		<string>{40.840649,-73.838321}</string>
-		<string>{40.835134,-73.838441}</string>
-		<string>{40.835837,-73.83639}</string>
-		<string>{40.833886,-73.835311}</string>
-		<string>{40.83527,-73.83224}</string>
-		<string>{40.834449,-73.829233}</string>
-		<string>{40.833284,-73.828356}</string>
-		<string>{40.83131,-73.831387}</string>
-		<string>{40.834021,-73.826013}</string>
-		<string>{40.837059,-73.82584}</string>
-		<string>{40.842994,-73.826241}</string>
-		<string>{40.8427,-73.82518}</string>
-		<string>{40.846105,-73.824957}</string>
-		<string>{40.845837,-73.825493}</string>
-		<string>{40.85059,-73.826911}</string>
-		<string>{40.855582,-73.826157}</string>
-		<string>{40.860947,-73.828372}</string>
-		<string>{40.856745,-73.831993}</string>
-		<string>{40.8564,-73.832476}</string>
-		<string>{40.856952,-73.832775}</string>
-		<string>{40.856145,-73.833088}</string>
-		<string>{40.856402,-73.835523}</string>
-		<string>{40.857277,-73.836819}</string>
-		<string>{40.85829,-73.843295}</string>
-		<string>{40.858718,-73.849309}</string>
-		<string>{40.858119,-73.856638}</string>
-		<string>{40.857983,-73.861791}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{40.857983,-73.861791}</string>
+	<string>{40.856783,-73.86192}</string>
+	<string>{40.845293,-73.852998}</string>
+	<string>{40.843854,-73.851107}</string>
+	<string>{40.842975,-73.85521}</string>
+	<string>{40.84247,-73.853335}</string>
+	<string>{40.841072,-73.8529}</string>
+	<string>{40.836273,-73.845905}</string>
+	<string>{40.835231,-73.843232}</string>
+	<string>{40.835663,-73.840028}</string>
+	<string>{40.834901,-73.839955}</string>
+	<string>{40.831339,-73.844206}</string>
+	<string>{40.830599,-73.844415}</string>
+	<string>{40.831267,-73.842279}</string>
+	<string>{40.833554,-73.839332}</string>
+	<string>{40.835768,-73.839323}</string>
+	<string>{40.838275,-73.839604}</string>
+	<string>{40.840878,-73.839364}</string>
+	<string>{40.840649,-73.838321}</string>
+	<string>{40.835134,-73.838441}</string>
+	<string>{40.835837,-73.83639}</string>
+	<string>{40.833886,-73.835311}</string>
+	<string>{40.83527,-73.83224}</string>
+	<string>{40.834449,-73.829233}</string>
+	<string>{40.833284,-73.828356}</string>
+	<string>{40.83131,-73.831387}</string>
+	<string>{40.834021,-73.826013}</string>
+	<string>{40.837059,-73.82584}</string>
+	<string>{40.842994,-73.826241}</string>
+	<string>{40.8427,-73.82518}</string>
+	<string>{40.846105,-73.824957}</string>
+	<string>{40.845837,-73.825493}</string>
+	<string>{40.85059,-73.826911}</string>
+	<string>{40.855582,-73.826157}</string>
+	<string>{40.860947,-73.828372}</string>
+	<string>{40.856745,-73.831993}</string>
+	<string>{40.8564,-73.832476}</string>
+	<string>{40.856952,-73.832775}</string>
+	<string>{40.856145,-73.833088}</string>
+	<string>{40.856402,-73.835523}</string>
+	<string>{40.857277,-73.836819}</string>
+	<string>{40.85829,-73.843295}</string>
+	<string>{40.858718,-73.849309}</string>
+	<string>{40.858119,-73.856638}</string>
+	<string>{40.857983,-73.861791}</string>
+</array>
 </plist>

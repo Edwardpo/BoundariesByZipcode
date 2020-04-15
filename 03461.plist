@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>03461</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{42.793308,-72.09126}</string>
-		<string>{42.7162435467862,-72.0786269963685}</string>
-		<string>{42.7132948192056,-71.9814290032211}</string>
-		<string>{42.713294,-71.981402}</string>
-		<string>{42.7122382005025,-71.9290194043648}</string>
-		<string>{42.776066,-71.941048}</string>
-		<string>{42.778615,-71.942558}</string>
-		<string>{42.781407,-71.942482}</string>
-		<string>{42.78841,-71.944283}</string>
-		<string>{42.789404,-71.973947}</string>
-		<string>{42.789161,-71.974312}</string>
-		<string>{42.790127,-71.997904}</string>
-		<string>{42.791484,-71.999075}</string>
-		<string>{42.791594,-72.003042}</string>
-		<string>{42.790302,-72.003739}</string>
-		<string>{42.79072,-72.01722}</string>
-		<string>{42.790909,-72.018624}</string>
-		<string>{42.791986,-72.024163}</string>
-		<string>{42.791195,-72.024224}</string>
-		<string>{42.791012,-72.024128}</string>
-		<string>{42.791057,-72.025499}</string>
-		<string>{42.791378,-72.034889}</string>
-		<string>{42.792172,-72.035235}</string>
-		<string>{42.791412,-72.035885}</string>
-		<string>{42.793308,-72.09126}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{42.793308,-72.09126}</string>
+	<string>{42.7162435467862,-72.0786269963685}</string>
+	<string>{42.7132948192056,-71.9814290032211}</string>
+	<string>{42.713294,-71.981402}</string>
+	<string>{42.7122382005025,-71.9290194043648}</string>
+	<string>{42.776066,-71.941048}</string>
+	<string>{42.778615,-71.942558}</string>
+	<string>{42.781407,-71.942482}</string>
+	<string>{42.78841,-71.944283}</string>
+	<string>{42.789404,-71.973947}</string>
+	<string>{42.789161,-71.974312}</string>
+	<string>{42.790127,-71.997904}</string>
+	<string>{42.791484,-71.999075}</string>
+	<string>{42.791594,-72.003042}</string>
+	<string>{42.790302,-72.003739}</string>
+	<string>{42.79072,-72.01722}</string>
+	<string>{42.790909,-72.018624}</string>
+	<string>{42.791986,-72.024163}</string>
+	<string>{42.791195,-72.024224}</string>
+	<string>{42.791012,-72.024128}</string>
+	<string>{42.791057,-72.025499}</string>
+	<string>{42.791378,-72.034889}</string>
+	<string>{42.792172,-72.035235}</string>
+	<string>{42.791412,-72.035885}</string>
+	<string>{42.793308,-72.09126}</string>
+</array>
 </plist>

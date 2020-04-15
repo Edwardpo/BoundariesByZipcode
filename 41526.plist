@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>41526</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{37.432966,-82.514653}</string>
-		<string>{37.432168,-82.514687}</string>
-		<string>{37.432727,-82.511849}</string>
-		<string>{37.43213,-82.509444}</string>
-		<string>{37.431144,-82.507091}</string>
-		<string>{37.424927,-82.504097}</string>
-		<string>{37.424317,-82.499393}</string>
-		<string>{37.424843,-82.49958}</string>
-		<string>{37.425974,-82.499917}</string>
-		<string>{37.425215,-82.501273}</string>
-		<string>{37.425366,-82.503031}</string>
-		<string>{37.42707,-82.504563}</string>
-		<string>{37.432465,-82.506459}</string>
-		<string>{37.433815,-82.507652}</string>
-		<string>{37.436394,-82.511925}</string>
-		<string>{37.435854,-82.512562}</string>
-		<string>{37.434574,-82.513839}</string>
-		<string>{37.433621,-82.514509}</string>
-		<string>{37.432966,-82.514653}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{37.432966,-82.514653}</string>
+	<string>{37.432168,-82.514687}</string>
+	<string>{37.432727,-82.511849}</string>
+	<string>{37.43213,-82.509444}</string>
+	<string>{37.431144,-82.507091}</string>
+	<string>{37.424927,-82.504097}</string>
+	<string>{37.424317,-82.499393}</string>
+	<string>{37.424843,-82.49958}</string>
+	<string>{37.425974,-82.499917}</string>
+	<string>{37.425215,-82.501273}</string>
+	<string>{37.425366,-82.503031}</string>
+	<string>{37.42707,-82.504563}</string>
+	<string>{37.432465,-82.506459}</string>
+	<string>{37.433815,-82.507652}</string>
+	<string>{37.436394,-82.511925}</string>
+	<string>{37.435854,-82.512562}</string>
+	<string>{37.434574,-82.513839}</string>
+	<string>{37.433621,-82.514509}</string>
+	<string>{37.432966,-82.514653}</string>
+</array>
 </plist>

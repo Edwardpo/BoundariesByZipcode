@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>10601</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{41.031867,-73.776303}</string>
-		<string>{41.031656,-73.775683}</string>
-		<string>{41.031918,-73.772457}</string>
-		<string>{41.024777,-73.769815}</string>
-		<string>{41.026332,-73.767737}</string>
-		<string>{41.02947,-73.759762}</string>
-		<string>{41.032476,-73.760239}</string>
-		<string>{41.031442,-73.758101}</string>
-		<string>{41.03275,-73.75471}</string>
-		<string>{41.033462,-73.75344}</string>
-		<string>{41.034736,-73.752823}</string>
-		<string>{41.036113,-73.75315}</string>
-		<string>{41.038852,-73.758051}</string>
-		<string>{41.038637,-73.758482}</string>
-		<string>{41.036281,-73.764428}</string>
-		<string>{41.038286,-73.766265}</string>
-		<string>{41.037146,-73.773099}</string>
-		<string>{41.036062,-73.775022}</string>
-		<string>{41.032787,-73.774153}</string>
-		<string>{41.032534,-73.775168}</string>
-		<string>{41.031867,-73.776303}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{41.031867,-73.776303}</string>
+	<string>{41.031656,-73.775683}</string>
+	<string>{41.031918,-73.772457}</string>
+	<string>{41.024777,-73.769815}</string>
+	<string>{41.026332,-73.767737}</string>
+	<string>{41.02947,-73.759762}</string>
+	<string>{41.032476,-73.760239}</string>
+	<string>{41.031442,-73.758101}</string>
+	<string>{41.03275,-73.75471}</string>
+	<string>{41.033462,-73.75344}</string>
+	<string>{41.034736,-73.752823}</string>
+	<string>{41.036113,-73.75315}</string>
+	<string>{41.038852,-73.758051}</string>
+	<string>{41.038637,-73.758482}</string>
+	<string>{41.036281,-73.764428}</string>
+	<string>{41.038286,-73.766265}</string>
+	<string>{41.037146,-73.773099}</string>
+	<string>{41.036062,-73.775022}</string>
+	<string>{41.032787,-73.774153}</string>
+	<string>{41.032534,-73.775168}</string>
+	<string>{41.031867,-73.776303}</string>
+</array>
 </plist>

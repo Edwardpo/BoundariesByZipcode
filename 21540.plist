@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>21540</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{39.480895,-79.066825}</string>
-		<string>{39.4798797575311,-79.0663749071848}</string>
-		<string>{39.479944,-79.06623}</string>
-		<string>{39.478442,-79.064224}</string>
-		<string>{39.4731160401964,-79.0614843447109}</string>
-		<string>{39.471739,-79.060776}</string>
-		<string>{39.470811,-79.058093}</string>
-		<string>{39.4710508103544,-79.0571575993778}</string>
-		<string>{39.471495,-79.055425}</string>
-		<string>{39.473096,-79.054989}</string>
-		<string>{39.4766251861057,-79.0544297162916}</string>
-		<string>{39.4780438920193,-79.0542048885039}</string>
-		<string>{39.478996708465,-79.0540538920138}</string>
-		<string>{39.4792014536704,-79.0540214452529}</string>
-		<string>{39.479399,-79.055268}</string>
-		<string>{39.481211,-79.058672}</string>
-		<string>{39.479768,-79.060822}</string>
-		<string>{39.48236,-79.066115}</string>
-		<string>{39.480895,-79.066825}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{39.480895,-79.066825}</string>
+	<string>{39.4798797575311,-79.0663749071848}</string>
+	<string>{39.479944,-79.06623}</string>
+	<string>{39.478442,-79.064224}</string>
+	<string>{39.4731160401964,-79.0614843447109}</string>
+	<string>{39.471739,-79.060776}</string>
+	<string>{39.470811,-79.058093}</string>
+	<string>{39.4710508103544,-79.0571575993778}</string>
+	<string>{39.471495,-79.055425}</string>
+	<string>{39.473096,-79.054989}</string>
+	<string>{39.4766251861057,-79.0544297162916}</string>
+	<string>{39.4780438920193,-79.0542048885039}</string>
+	<string>{39.478996708465,-79.0540538920138}</string>
+	<string>{39.4792014536704,-79.0540214452529}</string>
+	<string>{39.479399,-79.055268}</string>
+	<string>{39.481211,-79.058672}</string>
+	<string>{39.479768,-79.060822}</string>
+	<string>{39.48236,-79.066115}</string>
+	<string>{39.480895,-79.066825}</string>
+</array>
 </plist>

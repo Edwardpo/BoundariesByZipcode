@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>53172</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{42.915401,-87.881212}</string>
-		<string>{42.893577,-87.882102}</string>
-		<string>{42.8931305677403,-87.8469551886672}</string>
-		<string>{42.89635,-87.847834}</string>
-		<string>{42.901041,-87.846682}</string>
-		<string>{42.9012425660418,-87.8465272501244}</string>
-		<string>{42.904184,-87.844269}</string>
-		<string>{42.9049907381628,-87.8428675243179}</string>
-		<string>{42.9062908825074,-87.8406088972115}</string>
-		<string>{42.906315,-87.840567}</string>
-		<string>{42.9064059580824,-87.8405550829749}</string>
-		<string>{42.9127643777007,-87.8397220240063}</string>
-		<string>{42.914833,-87.839451}</string>
-		<string>{42.921835,-87.843985}</string>
-		<string>{42.9242149729709,-87.8444403092822}</string>
-		<string>{42.9301997485987,-87.8455852482915}</string>
-		<string>{42.930032,-87.881392}</string>
-		<string>{42.915401,-87.881212}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{42.915401,-87.881212}</string>
+	<string>{42.893577,-87.882102}</string>
+	<string>{42.8931305677403,-87.8469551886672}</string>
+	<string>{42.89635,-87.847834}</string>
+	<string>{42.901041,-87.846682}</string>
+	<string>{42.9012425660418,-87.8465272501244}</string>
+	<string>{42.904184,-87.844269}</string>
+	<string>{42.9049907381628,-87.8428675243179}</string>
+	<string>{42.9062908825074,-87.8406088972115}</string>
+	<string>{42.906315,-87.840567}</string>
+	<string>{42.9064059580824,-87.8405550829749}</string>
+	<string>{42.9127643777007,-87.8397220240063}</string>
+	<string>{42.914833,-87.839451}</string>
+	<string>{42.921835,-87.843985}</string>
+	<string>{42.9242149729709,-87.8444403092822}</string>
+	<string>{42.9301997485987,-87.8455852482915}</string>
+	<string>{42.930032,-87.881392}</string>
+	<string>{42.915401,-87.881212}</string>
+</array>
 </plist>

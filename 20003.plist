@@ -1,57 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>20003</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{38.872034,-77.01065}</string>
-		<string>{38.868243,-77.010691}</string>
-		<string>{38.867284,-77.010125}</string>
-		<string>{38.867284,-77.00907}</string>
-		<string>{38.87008,-77.009057}</string>
-		<string>{38.870694,-77.009161}</string>
-		<string>{38.870804,-77.008878}</string>
-		<string>{38.869913,-77.0082}</string>
-		<string>{38.869505,-77.007418}</string>
-		<string>{38.868707,-77.005457}</string>
-		<string>{38.870878,-77.003415}</string>
-		<string>{38.870073,-76.995482}</string>
-		<string>{38.870129,-76.99246}</string>
-		<string>{38.871349,-76.990102}</string>
-		<string>{38.874928,-76.983957}</string>
-		<string>{38.876881,-76.978031}</string>
-		<string>{38.87839,-76.973299}</string>
-		<string>{38.882659,-76.969604}</string>
-		<string>{38.885235,-76.966789}</string>
-		<string>{38.889867,-76.963367}</string>
-		<string>{38.889798,-76.977257}</string>
-		<string>{38.892004,-76.977257}</string>
-		<string>{38.89201,-76.980762}</string>
-		<string>{38.8898,-76.980764}</string>
-		<string>{38.889802,-76.985625}</string>
-		<string>{38.890191,-76.988308}</string>
-		<string>{38.889243,-76.988316}</string>
-		<string>{38.889226,-76.991544}</string>
-		<string>{38.889803,-76.992643}</string>
-		<string>{38.889808,-77.000579}</string>
-		<string>{38.890937,-77.000579}</string>
-		<string>{38.890936,-77.002043}</string>
-		<string>{38.889808,-77.00204}</string>
-		<string>{38.889808,-77.003515}</string>
-		<string>{38.889151,-77.00352}</string>
-		<string>{38.887614,-77.003519}</string>
-		<string>{38.886039,-77.003514}</string>
-		<string>{38.886039,-77.005892}</string>
-		<string>{38.887612,-77.005897}</string>
-		<string>{38.887588,-77.009065}</string>
-		<string>{38.885065,-77.009061}</string>
-		<string>{38.882079,-77.009109}</string>
-		<string>{38.881548,-77.009112}</string>
-		<string>{38.872032,-77.009085}</string>
-		<string>{38.872034,-77.01065}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{38.872034,-77.01065}</string>
+	<string>{38.868243,-77.010691}</string>
+	<string>{38.867284,-77.010125}</string>
+	<string>{38.867284,-77.00907}</string>
+	<string>{38.87008,-77.009057}</string>
+	<string>{38.870694,-77.009161}</string>
+	<string>{38.870804,-77.008878}</string>
+	<string>{38.869913,-77.0082}</string>
+	<string>{38.869505,-77.007418}</string>
+	<string>{38.868707,-77.005457}</string>
+	<string>{38.870878,-77.003415}</string>
+	<string>{38.870073,-76.995482}</string>
+	<string>{38.870129,-76.99246}</string>
+	<string>{38.871349,-76.990102}</string>
+	<string>{38.874928,-76.983957}</string>
+	<string>{38.876881,-76.978031}</string>
+	<string>{38.87839,-76.973299}</string>
+	<string>{38.882659,-76.969604}</string>
+	<string>{38.885235,-76.966789}</string>
+	<string>{38.889867,-76.963367}</string>
+	<string>{38.889798,-76.977257}</string>
+	<string>{38.892004,-76.977257}</string>
+	<string>{38.89201,-76.980762}</string>
+	<string>{38.8898,-76.980764}</string>
+	<string>{38.889802,-76.985625}</string>
+	<string>{38.890191,-76.988308}</string>
+	<string>{38.889243,-76.988316}</string>
+	<string>{38.889226,-76.991544}</string>
+	<string>{38.889803,-76.992643}</string>
+	<string>{38.889808,-77.000579}</string>
+	<string>{38.890937,-77.000579}</string>
+	<string>{38.890936,-77.002043}</string>
+	<string>{38.889808,-77.00204}</string>
+	<string>{38.889808,-77.003515}</string>
+	<string>{38.889151,-77.00352}</string>
+	<string>{38.887614,-77.003519}</string>
+	<string>{38.886039,-77.003514}</string>
+	<string>{38.886039,-77.005892}</string>
+	<string>{38.887612,-77.005897}</string>
+	<string>{38.887588,-77.009065}</string>
+	<string>{38.885065,-77.009061}</string>
+	<string>{38.882079,-77.009109}</string>
+	<string>{38.881548,-77.009112}</string>
+	<string>{38.872032,-77.009085}</string>
+	<string>{38.872034,-77.01065}</string>
+</array>
 </plist>

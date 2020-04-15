@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>11509</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{40.5853949472593,-73.7548512637496}</string>
-		<string>{40.584404,-73.754776}</string>
-		<string>{40.5844449620018,-73.7545685301205}</string>
-		<string>{40.5867908593385,-73.7426867124413}</string>
-		<string>{40.586791,-73.742686}</string>
-		<string>{40.585866,-73.729841}</string>
-		<string>{40.5838346384735,-73.7070078307257}</string>
-		<string>{40.585324,-73.706429}</string>
-		<string>{40.589395,-73.706145}</string>
-		<string>{40.590958,-73.70613}</string>
-		<string>{40.591504,-73.716976}</string>
-		<string>{40.594053,-73.736519}</string>
-		<string>{40.59392,-73.737521}</string>
-		<string>{40.592965,-73.737185}</string>
-		<string>{40.592904,-73.744469}</string>
-		<string>{40.591503,-73.747749}</string>
-		<string>{40.589049,-73.750978}</string>
-		<string>{40.588469,-73.750955}</string>
-		<string>{40.5853949472593,-73.7548512637496}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{40.5853949472593,-73.7548512637496}</string>
+	<string>{40.584404,-73.754776}</string>
+	<string>{40.5844449620018,-73.7545685301205}</string>
+	<string>{40.5867908593385,-73.7426867124413}</string>
+	<string>{40.586791,-73.742686}</string>
+	<string>{40.585866,-73.729841}</string>
+	<string>{40.5838346384735,-73.7070078307257}</string>
+	<string>{40.585324,-73.706429}</string>
+	<string>{40.589395,-73.706145}</string>
+	<string>{40.590958,-73.70613}</string>
+	<string>{40.591504,-73.716976}</string>
+	<string>{40.594053,-73.736519}</string>
+	<string>{40.59392,-73.737521}</string>
+	<string>{40.592965,-73.737185}</string>
+	<string>{40.592904,-73.744469}</string>
+	<string>{40.591503,-73.747749}</string>
+	<string>{40.589049,-73.750978}</string>
+	<string>{40.588469,-73.750955}</string>
+	<string>{40.5853949472593,-73.7548512637496}</string>
+</array>
 </plist>

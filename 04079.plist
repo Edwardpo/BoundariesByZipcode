@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>04079</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{43.837388,-69.994143}</string>
-		<string>{43.832931,-69.99747}</string>
-		<string>{43.831902,-69.99343}</string>
-		<string>{43.831902,-69.99034}</string>
-		<string>{43.834988,-69.987725}</string>
-		<string>{43.837045,-69.988914}</string>
-		<string>{43.841503,-69.985824}</string>
-		<string>{43.84356,-69.986537}</string>
-		<string>{43.842531,-69.99034}</string>
-		<string>{43.837388,-69.994143}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{43.837388,-69.994143}</string>
+	<string>{43.832931,-69.99747}</string>
+	<string>{43.831902,-69.99343}</string>
+	<string>{43.831902,-69.99034}</string>
+	<string>{43.834988,-69.987725}</string>
+	<string>{43.837045,-69.988914}</string>
+	<string>{43.841503,-69.985824}</string>
+	<string>{43.84356,-69.986537}</string>
+	<string>{43.842531,-69.99034}</string>
+	<string>{43.837388,-69.994143}</string>
+</array>
 </plist>

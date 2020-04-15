@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>07750</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{40.339947,-74.003188}</string>
-		<string>{40.337714,-74.00371}</string>
-		<string>{40.334039,-74.002658}</string>
-		<string>{40.333604,-73.999772}</string>
-		<string>{40.331619,-73.996874}</string>
-		<string>{40.330773,-73.996728}</string>
-		<string>{40.329783,-73.997233}</string>
-		<string>{40.327081,-73.989154}</string>
-		<string>{40.326334,-73.988579}</string>
-		<string>{40.327114,-73.986157}</string>
-		<string>{40.325714,-73.984423}</string>
-		<string>{40.324467,-73.984383}</string>
-		<string>{40.3235,-73.982536}</string>
-		<string>{40.323718,-73.977772}</string>
-		<string>{40.322563,-73.977181}</string>
-		<string>{40.3224417216322,-73.9748898502909}</string>
-		<string>{40.34580776158,-73.9723048075214}</string>
-		<string>{40.345717,-73.986065}</string>
-		<string>{40.349444,-73.992048}</string>
-		<string>{40.339947,-74.003188}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{40.339947,-74.003188}</string>
+	<string>{40.337714,-74.00371}</string>
+	<string>{40.334039,-74.002658}</string>
+	<string>{40.333604,-73.999772}</string>
+	<string>{40.331619,-73.996874}</string>
+	<string>{40.330773,-73.996728}</string>
+	<string>{40.329783,-73.997233}</string>
+	<string>{40.327081,-73.989154}</string>
+	<string>{40.326334,-73.988579}</string>
+	<string>{40.327114,-73.986157}</string>
+	<string>{40.325714,-73.984423}</string>
+	<string>{40.324467,-73.984383}</string>
+	<string>{40.3235,-73.982536}</string>
+	<string>{40.323718,-73.977772}</string>
+	<string>{40.322563,-73.977181}</string>
+	<string>{40.3224417216322,-73.9748898502909}</string>
+	<string>{40.34580776158,-73.9723048075214}</string>
+	<string>{40.345717,-73.986065}</string>
+	<string>{40.349444,-73.992048}</string>
+	<string>{40.339947,-74.003188}</string>
+</array>
 </plist>

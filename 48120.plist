@@ -1,57 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>48120</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{42.30973,-83.214887}</string>
-		<string>{42.306286,-83.213838}</string>
-		<string>{42.298412,-83.206197}</string>
-		<string>{42.300523,-83.200716}</string>
-		<string>{42.301161,-83.199129}</string>
-		<string>{42.29537,-83.188529}</string>
-		<string>{42.295259,-83.18364}</string>
-		<string>{42.294726,-83.180537}</string>
-		<string>{42.294785,-83.179395}</string>
-		<string>{42.300007,-83.183093}</string>
-		<string>{42.305962,-83.177683}</string>
-		<string>{42.304428,-83.176438}</string>
-		<string>{42.310618,-83.170727}</string>
-		<string>{42.310143,-83.17005}</string>
-		<string>{42.314809,-83.165826}</string>
-		<string>{42.314976,-83.16446}</string>
-		<string>{42.313121,-83.162228}</string>
-		<string>{42.303214,-83.155159}</string>
-		<string>{42.30006,-83.153534}</string>
-		<string>{42.29821,-83.151602}</string>
-		<string>{42.29871,-83.149225}</string>
-		<string>{42.296233,-83.151079}</string>
-		<string>{42.295566,-83.149763}</string>
-		<string>{42.29261,-83.147987}</string>
-		<string>{42.292539,-83.147659}</string>
-		<string>{42.293584,-83.144473}</string>
-		<string>{42.294406,-83.142637}</string>
-		<string>{42.297036,-83.1407}</string>
-		<string>{42.299054,-83.140403}</string>
-		<string>{42.302172,-83.141652}</string>
-		<string>{42.305502,-83.142494}</string>
-		<string>{42.306846,-83.140584}</string>
-		<string>{42.309005,-83.139807}</string>
-		<string>{42.311008,-83.14078}</string>
-		<string>{42.31963,-83.147038}</string>
-		<string>{42.318075,-83.157667}</string>
-		<string>{42.314541,-83.178169}</string>
-		<string>{42.313499,-83.179653}</string>
-		<string>{42.310805,-83.180397}</string>
-		<string>{42.308941,-83.179826}</string>
-		<string>{42.311412,-83.182343}</string>
-		<string>{42.313149,-83.186441}</string>
-		<string>{42.31338,-83.188768}</string>
-		<string>{42.312791,-83.193709}</string>
-		<string>{42.30973,-83.214887}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{42.30973,-83.214887}</string>
+	<string>{42.306286,-83.213838}</string>
+	<string>{42.298412,-83.206197}</string>
+	<string>{42.300523,-83.200716}</string>
+	<string>{42.301161,-83.199129}</string>
+	<string>{42.29537,-83.188529}</string>
+	<string>{42.295259,-83.18364}</string>
+	<string>{42.294726,-83.180537}</string>
+	<string>{42.294785,-83.179395}</string>
+	<string>{42.300007,-83.183093}</string>
+	<string>{42.305962,-83.177683}</string>
+	<string>{42.304428,-83.176438}</string>
+	<string>{42.310618,-83.170727}</string>
+	<string>{42.310143,-83.17005}</string>
+	<string>{42.314809,-83.165826}</string>
+	<string>{42.314976,-83.16446}</string>
+	<string>{42.313121,-83.162228}</string>
+	<string>{42.303214,-83.155159}</string>
+	<string>{42.30006,-83.153534}</string>
+	<string>{42.29821,-83.151602}</string>
+	<string>{42.29871,-83.149225}</string>
+	<string>{42.296233,-83.151079}</string>
+	<string>{42.295566,-83.149763}</string>
+	<string>{42.29261,-83.147987}</string>
+	<string>{42.292539,-83.147659}</string>
+	<string>{42.293584,-83.144473}</string>
+	<string>{42.294406,-83.142637}</string>
+	<string>{42.297036,-83.1407}</string>
+	<string>{42.299054,-83.140403}</string>
+	<string>{42.302172,-83.141652}</string>
+	<string>{42.305502,-83.142494}</string>
+	<string>{42.306846,-83.140584}</string>
+	<string>{42.309005,-83.139807}</string>
+	<string>{42.311008,-83.14078}</string>
+	<string>{42.31963,-83.147038}</string>
+	<string>{42.318075,-83.157667}</string>
+	<string>{42.314541,-83.178169}</string>
+	<string>{42.313499,-83.179653}</string>
+	<string>{42.310805,-83.180397}</string>
+	<string>{42.308941,-83.179826}</string>
+	<string>{42.311412,-83.182343}</string>
+	<string>{42.313149,-83.186441}</string>
+	<string>{42.31338,-83.188768}</string>
+	<string>{42.312791,-83.193709}</string>
+	<string>{42.30973,-83.214887}</string>
+</array>
 </plist>

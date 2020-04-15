@@ -1,46 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>34202</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{27.440989,-82.459199}</string>
-		<string>{27.43095,-82.459345}</string>
-		<string>{27.427984,-82.459156}</string>
-		<string>{27.424247,-82.458467}</string>
-		<string>{27.412734,-82.455286}</string>
-		<string>{27.388605,-82.448609}</string>
-		<string>{27.388587,-82.447461}</string>
-		<string>{27.388573,-82.442069}</string>
-		<string>{27.386765,-82.437702}</string>
-		<string>{27.386541,-82.437131}</string>
-		<string>{27.386353,-82.43624}</string>
-		<string>{27.38635,-82.433135}</string>
-		<string>{27.386451,-82.398117}</string>
-		<string>{27.386453,-82.397394}</string>
-		<string>{27.386825,-82.39267}</string>
-		<string>{27.386611,-82.374815}</string>
-		<string>{27.386304,-82.268238}</string>
-		<string>{27.387121,-82.26821}</string>
-		<string>{27.387146,-82.277026}</string>
-		<string>{27.387859,-82.280341}</string>
-		<string>{27.39865,-82.303834}</string>
-		<string>{27.402155,-82.311422}</string>
-		<string>{27.418895,-82.36296}</string>
-		<string>{27.419526,-82.364529}</string>
-		<string>{27.431035,-82.383085}</string>
-		<string>{27.431687,-82.384692}</string>
-		<string>{27.431883,-82.386087}</string>
-		<string>{27.431955,-82.395339}</string>
-		<string>{27.43229,-82.430064}</string>
-		<string>{27.433794,-82.435213}</string>
-		<string>{27.436659,-82.444626}</string>
-		<string>{27.43698,-82.445704}</string>
-		<string>{27.437808,-82.449093}</string>
-		<string>{27.440989,-82.459199}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{27.440989,-82.459199}</string>
+	<string>{27.43095,-82.459345}</string>
+	<string>{27.427984,-82.459156}</string>
+	<string>{27.424247,-82.458467}</string>
+	<string>{27.412734,-82.455286}</string>
+	<string>{27.388605,-82.448609}</string>
+	<string>{27.388587,-82.447461}</string>
+	<string>{27.388573,-82.442069}</string>
+	<string>{27.386765,-82.437702}</string>
+	<string>{27.386541,-82.437131}</string>
+	<string>{27.386353,-82.43624}</string>
+	<string>{27.38635,-82.433135}</string>
+	<string>{27.386451,-82.398117}</string>
+	<string>{27.386453,-82.397394}</string>
+	<string>{27.386825,-82.39267}</string>
+	<string>{27.386611,-82.374815}</string>
+	<string>{27.386304,-82.268238}</string>
+	<string>{27.387121,-82.26821}</string>
+	<string>{27.387146,-82.277026}</string>
+	<string>{27.387859,-82.280341}</string>
+	<string>{27.39865,-82.303834}</string>
+	<string>{27.402155,-82.311422}</string>
+	<string>{27.418895,-82.36296}</string>
+	<string>{27.419526,-82.364529}</string>
+	<string>{27.431035,-82.383085}</string>
+	<string>{27.431687,-82.384692}</string>
+	<string>{27.431883,-82.386087}</string>
+	<string>{27.431955,-82.395339}</string>
+	<string>{27.43229,-82.430064}</string>
+	<string>{27.433794,-82.435213}</string>
+	<string>{27.436659,-82.444626}</string>
+	<string>{27.43698,-82.445704}</string>
+	<string>{27.437808,-82.449093}</string>
+	<string>{27.440989,-82.459199}</string>
+</array>
 </plist>

@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>20759</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{39.176225,-76.919941}</string>
-		<string>{39.171406,-76.919342}</string>
-		<string>{39.170498,-76.916994}</string>
-		<string>{39.172883,-76.914274}</string>
-		<string>{39.171145,-76.909541}</string>
-		<string>{39.17144,-76.907682}</string>
-		<string>{39.176626,-76.902548}</string>
-		<string>{39.1761,-76.901194}</string>
-		<string>{39.178396,-76.897972}</string>
-		<string>{39.181277,-76.899788}</string>
-		<string>{39.181727,-76.900392}</string>
-		<string>{39.182484,-76.900627}</string>
-		<string>{39.182475,-76.903664}</string>
-		<string>{39.184771,-76.906211}</string>
-		<string>{39.183692,-76.910505}</string>
-		<string>{39.180406,-76.909192}</string>
-		<string>{39.180276,-76.911206}</string>
-		<string>{39.178229,-76.915034}</string>
-		<string>{39.178285,-76.916534}</string>
-		<string>{39.176699,-76.918294}</string>
-		<string>{39.176225,-76.919941}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{39.176225,-76.919941}</string>
+	<string>{39.171406,-76.919342}</string>
+	<string>{39.170498,-76.916994}</string>
+	<string>{39.172883,-76.914274}</string>
+	<string>{39.171145,-76.909541}</string>
+	<string>{39.17144,-76.907682}</string>
+	<string>{39.176626,-76.902548}</string>
+	<string>{39.1761,-76.901194}</string>
+	<string>{39.178396,-76.897972}</string>
+	<string>{39.181277,-76.899788}</string>
+	<string>{39.181727,-76.900392}</string>
+	<string>{39.182484,-76.900627}</string>
+	<string>{39.182475,-76.903664}</string>
+	<string>{39.184771,-76.906211}</string>
+	<string>{39.183692,-76.910505}</string>
+	<string>{39.180406,-76.909192}</string>
+	<string>{39.180276,-76.911206}</string>
+	<string>{39.178229,-76.915034}</string>
+	<string>{39.178285,-76.916534}</string>
+	<string>{39.176699,-76.918294}</string>
+	<string>{39.176225,-76.919941}</string>
+</array>
 </plist>

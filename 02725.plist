@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>02725</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{41.692809,-71.206335}</string>
-		<string>{41.6905023835889,-71.2082927532454}</string>
-		<string>{41.6818607518953,-71.2012209584915}</string>
-		<string>{41.691502,-71.18979}</string>
-		<string>{41.696861,-71.181977}</string>
-		<string>{41.702202,-71.17419}</string>
-		<string>{41.708227,-71.168517}</string>
-		<string>{41.721202,-71.158289}</string>
-		<string>{41.723795,-71.155449}</string>
-		<string>{41.72763,-71.160702}</string>
-		<string>{41.729696,-71.166932}</string>
-		<string>{41.731116,-71.170371}</string>
-		<string>{41.740411,-71.186813}</string>
-		<string>{41.737609,-71.187532}</string>
-		<string>{41.730968,-71.19165}</string>
-		<string>{41.728123,-71.192026}</string>
-		<string>{41.721045,-71.19592}</string>
-		<string>{41.718948,-71.19669}</string>
-		<string>{41.695412,-71.206278}</string>
-		<string>{41.692809,-71.206335}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{41.692809,-71.206335}</string>
+	<string>{41.6905023835889,-71.2082927532454}</string>
+	<string>{41.6818607518953,-71.2012209584915}</string>
+	<string>{41.691502,-71.18979}</string>
+	<string>{41.696861,-71.181977}</string>
+	<string>{41.702202,-71.17419}</string>
+	<string>{41.708227,-71.168517}</string>
+	<string>{41.721202,-71.158289}</string>
+	<string>{41.723795,-71.155449}</string>
+	<string>{41.72763,-71.160702}</string>
+	<string>{41.729696,-71.166932}</string>
+	<string>{41.731116,-71.170371}</string>
+	<string>{41.740411,-71.186813}</string>
+	<string>{41.737609,-71.187532}</string>
+	<string>{41.730968,-71.19165}</string>
+	<string>{41.728123,-71.192026}</string>
+	<string>{41.721045,-71.19592}</string>
+	<string>{41.718948,-71.19669}</string>
+	<string>{41.695412,-71.206278}</string>
+	<string>{41.692809,-71.206335}</string>
+</array>
 </plist>

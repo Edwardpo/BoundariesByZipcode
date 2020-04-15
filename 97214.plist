@@ -1,56 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>97214</key>
-<dict>
-	<key>boundary</key>
-	<array>
-		<string>{45.517592,-122.668653}</string>
-		<string>{45.51307,-122.670417}</string>
-		<string>{45.512972,-122.667974}</string>
-		<string>{45.511539,-122.665853}</string>
-		<string>{45.508684,-122.665451}</string>
-		<string>{45.508405,-122.663728}</string>
-		<string>{45.50588,-122.663424}</string>
-		<string>{45.505876,-122.661853}</string>
-		<string>{45.504895,-122.661868}</string>
-		<string>{45.505849,-122.66081}</string>
-		<string>{45.504854,-122.65372}</string>
-		<string>{45.506831,-122.651419}</string>
-		<string>{45.505296,-122.65148}</string>
-		<string>{45.50529,-122.649422}</string>
-		<string>{45.504837,-122.649425}</string>
-		<string>{45.504806,-122.639603}</string>
-		<string>{45.505208,-122.639546}</string>
-		<string>{45.50521,-122.636706}</string>
-		<string>{45.505501,-122.636711}</string>
-		<string>{45.505496,-122.632665}</string>
-		<string>{45.504797,-122.632607}</string>
-		<string>{45.504793,-122.629565}</string>
-		<string>{45.505462,-122.629584}</string>
-		<string>{45.505298,-122.627574}</string>
-		<string>{45.505489,-122.627009}</string>
-		<string>{45.505486,-122.623926}</string>
-		<string>{45.504776,-122.623873}</string>
-		<string>{45.504795,-122.619568}</string>
-		<string>{45.50513,-122.618885}</string>
-		<string>{45.519286,-122.619529}</string>
-		<string>{45.523045,-122.619994}</string>
-		<string>{45.52371,-122.620153}</string>
-		<string>{45.522926,-122.62712}</string>
-		<string>{45.523233,-122.631689}</string>
-		<string>{45.522869,-122.634495}</string>
-		<string>{45.523611,-122.634502}</string>
-		<string>{45.523571,-122.639263}</string>
-		<string>{45.522859,-122.639279}</string>
-		<string>{45.522908,-122.653606}</string>
-		<string>{45.523621,-122.653601}</string>
-		<string>{45.523638,-122.658673}</string>
-		<string>{45.522925,-122.658678}</string>
-		<string>{45.523028,-122.667093}</string>
-		<string>{45.517592,-122.668653}</string>
-	</array>
-</dict>
-</dict>
+<array>
+	<string>{45.517592,-122.668653}</string>
+	<string>{45.51307,-122.670417}</string>
+	<string>{45.512972,-122.667974}</string>
+	<string>{45.511539,-122.665853}</string>
+	<string>{45.508684,-122.665451}</string>
+	<string>{45.508405,-122.663728}</string>
+	<string>{45.50588,-122.663424}</string>
+	<string>{45.505876,-122.661853}</string>
+	<string>{45.504895,-122.661868}</string>
+	<string>{45.505849,-122.66081}</string>
+	<string>{45.504854,-122.65372}</string>
+	<string>{45.506831,-122.651419}</string>
+	<string>{45.505296,-122.65148}</string>
+	<string>{45.50529,-122.649422}</string>
+	<string>{45.504837,-122.649425}</string>
+	<string>{45.504806,-122.639603}</string>
+	<string>{45.505208,-122.639546}</string>
+	<string>{45.50521,-122.636706}</string>
+	<string>{45.505501,-122.636711}</string>
+	<string>{45.505496,-122.632665}</string>
+	<string>{45.504797,-122.632607}</string>
+	<string>{45.504793,-122.629565}</string>
+	<string>{45.505462,-122.629584}</string>
+	<string>{45.505298,-122.627574}</string>
+	<string>{45.505489,-122.627009}</string>
+	<string>{45.505486,-122.623926}</string>
+	<string>{45.504776,-122.623873}</string>
+	<string>{45.504795,-122.619568}</string>
+	<string>{45.50513,-122.618885}</string>
+	<string>{45.519286,-122.619529}</string>
+	<string>{45.523045,-122.619994}</string>
+	<string>{45.52371,-122.620153}</string>
+	<string>{45.522926,-122.62712}</string>
+	<string>{45.523233,-122.631689}</string>
+	<string>{45.522869,-122.634495}</string>
+	<string>{45.523611,-122.634502}</string>
+	<string>{45.523571,-122.639263}</string>
+	<string>{45.522859,-122.639279}</string>
+	<string>{45.522908,-122.653606}</string>
+	<string>{45.523621,-122.653601}</string>
+	<string>{45.523638,-122.658673}</string>
+	<string>{45.522925,-122.658678}</string>
+	<string>{45.523028,-122.667093}</string>
+	<string>{45.517592,-122.668653}</string>
+</array>
 </plist>
